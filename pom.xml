@@ -118,7 +118,7 @@
       <version>5.1.7.RELEASE</version>
     </dependency>
 
-    <!-- spring text 相关依赖 -->
+    <!-- spring test 相关依赖 -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-test</artifactId>
